@@ -1,0 +1,44 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+
+# IDE files
+.idea/
+.vscode/
+
+# Compiled source
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# MNIST dataset folder
+MNIST/
+
+# Path folder
+path/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore local settings (e.g., Django settings.py)
+local_settings.py
+
+# Ignore macOS folder attributes
+.DS_Store
+
+# Ignore system files that might appear on external disks
+.Spotlight-V100
+.Trashes
